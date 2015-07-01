@@ -1,0 +1,46 @@
+Question
+
+True and True
+False and True
+1 == 1 and 2 == 1
+"test" == "test"
+1 == 1 or 2 != 1
+True and 1 == 1
+False and 0 != 0
+True or 1 == 1
+"test" == "testing"
+1 != 0 and 2 == 1
+"test" != "testing"
+"test" == 1
+not (True and False)
+not (1 == 1 and 0 != 1)
+not (10 == 1 or 1000 == 1000)
+not (1 != 10 or 3 == 4)
+not ("testing" == "testing" and "Zed" == "Cool Guy")
+1 == 1 and (not ("testing" == 1 or 1 == 0))
+"chunky" == "bacon" and (not (3 == 4 or 3 == 3))
+3 == 3 and (not ("testing" == "testing" or "Python" == "Fun"))
+
+
+ANSWERS:-
+
+1	true
+2	false
+3	false
+4	true
+5	true
+6	true
+7	false
+8	false
+9	false
+10	false
+11	true
+12	false
+13	true
+14	false
+15	true
+16	false
+17	true
+18	true
+19	false
+20	true
