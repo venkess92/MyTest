@@ -12,7 +12,7 @@ def search_database (searchcriteria ):
         print "zero results"
 def db (info):
     
-    DTB[str(hash(info))]=info
+    DTB[str(info))]=info
     print ("The record was added to the database address book ")
 def collect ():
     
